@@ -9,7 +9,6 @@ This project implements a BERT4Rec model to predict the next treatment in a sequ
 * Implements BERT4Rec, a Transformer-based model for sequential recommendation.
 * Uses Multi-Head Attention for learning contextual relationships between treatments.
 * Supports variable-length sequences using padding to ensure consistency.
-* Provides next treatment prediction as the output.
 * Uses TensorFlow and Keras for deep learning implementation.
 * Includes data preprocessing steps like sequence padding and encoding.
 
