@@ -1,6 +1,7 @@
 # **BERT4Rec - Treatment Recommendation System**
 
 ## **Overview**
+**This is a static code that shows the code of **"bert4rec"** using a treatment dataset.**
 This project implements a BERT4Rec model to predict the next treatment in a sequence of medical treatments. It leverages Transformer-based architectures to learn patterns from historical treatment sequences and suggest the most probable next step in a patient’s care plan.
 
 ## **Features:**
